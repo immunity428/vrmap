@@ -1,0 +1,47 @@
+[
+  {
+    "id": "food",
+    "label": "フードコートエリア",
+    "x": 20,
+    "y": 40,
+    "desc": "フードコートエリア周辺。屋台や飲食ブースが立ち並びます。",
+    "panoUrl": "images/pixage_panorama02.jpg",
+    "pitch": 0, "yaw": 0, "hfov": 100
+  },
+  {
+    "id": "stone",
+    "label": "石彫エリア",
+    "x": 42,
+    "y": 57,
+    "desc": "石彫エリア。湖畔に設けられた観覧エリアです。",
+    "panoUrl": "images/pixage_panorama03.jpg",
+    "pitch": 0, "yaw": 0, "hfov": 100
+  },
+  {
+    "id": "center",
+    "label": "中央エリア",
+    "x": 53,
+    "y": 78,
+    "desc": "中央エリア。赤矢印の動線に沿ってアクセスします。",
+    "panoUrl": "images/pixage_panorama04.jpg",
+    "pitch": 0, "yaw": 0, "hfov": 100
+  },
+  {
+    "id": "lakeside",
+    "label": "湖畔エリア",
+    "x": 77,
+    "y": 50,
+    "desc": "湖畔エリア。湖側から花火を楽しめるエリアです。",
+    "panoUrl": "images/pixage_panorama05.jpg",
+    "pitch": 0, "yaw": 0, "hfov": 100
+  },
+  {
+    "id": "makkumi",
+    "label": "間欠泉北エリア",
+    "x": 89,
+    "y": 33,
+    "desc": "間欠泉北エリア。少し離れた場所からの観覧エリアです。",
+    "panoUrl": "images/pixage_panorama02.jpg",
+    "pitch": 0, "yaw": 0, "hfov": 100
+  }
+]
